@@ -1,0 +1,17 @@
+{
+  "name": "tugas-javascript",
+  "version": "1.0.0",
+  "description": "tugas javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node akardua.js"
+  },
+  "keywords": [
+    "akardua"
+  ],
+  "author": "rani",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
